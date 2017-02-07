@@ -15,5 +15,10 @@ namespace myCalculator
         {
             InitializeComponent();
         }
+
+        private void closeB_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
