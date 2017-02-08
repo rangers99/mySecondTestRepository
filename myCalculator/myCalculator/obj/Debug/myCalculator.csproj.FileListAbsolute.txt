@@ -1,8 +1,8 @@
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\bin\Debug\myCalculator.exe
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\bin\Debug\myCalculator.pdb
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.Form1.resources
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.Properties.Resources.resources
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.csproj.GenerateResource.Cache
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.exe
 C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.pdb
+C:\Users\ME\MySoftware\Calculator\myCalculator\myCalculator\obj\Debug\myCalculator.calculator.resources
