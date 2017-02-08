@@ -31,11 +31,12 @@
             this.closeB = new System.Windows.Forms.Button();
             this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
             this.label1 = new System.Windows.Forms.Label();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.SuspendLayout();
             // 
             // closeB
             // 
-            this.closeB.Location = new System.Drawing.Point(364, 226);
+            this.closeB.Location = new System.Drawing.Point(602, 226);
             this.closeB.Name = "closeB";
             this.closeB.Size = new System.Drawing.Size(75, 23);
             this.closeB.TabIndex = 0;
@@ -58,11 +59,19 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "I\'ve added a label";
             // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.Location = new System.Drawing.Point(278, 13);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker1.TabIndex = 3;
+            // 
             // calculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(451, 261);
+            this.ClientSize = new System.Drawing.Size(689, 261);
+            this.Controls.Add(this.dateTimePicker1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.monthCalendar1);
             this.Controls.Add(this.closeB);
@@ -81,6 +90,7 @@
         private System.Windows.Forms.Button closeB;
         private System.Windows.Forms.MonthCalendar monthCalendar1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }
 
